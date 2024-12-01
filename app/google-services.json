@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850766487981",
+    "project_id": "instiapp-f3a49",
+    "storage_bucket": "instiapp-f3a49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850766487981:android:e06d1070db8df0d5278124",
+        "android_client_info": {
+          "package_name": "com.angad.instiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGJPzADRKG_D4FYkSeDeQBAT4Wov-V6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
